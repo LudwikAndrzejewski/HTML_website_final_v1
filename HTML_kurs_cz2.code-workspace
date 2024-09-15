@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "HTML_kurs_cz2",
+			"path": "."
+		},
+		{
+			"name": "HTML_kurs_cz1",
+			"path": "..\\HTML_kurs_cz1"
+		},
+		{
+			"name": "HTML_str1",
+			"path": "..\\HTML_str1"
+		},
+		{
+			"name": "HTML_str2",
+			"path": "..\\HTML_str2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML_kurs_cz2"
+	}
+}
